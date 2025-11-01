@@ -1,1 +1,1 @@
-# Pangrams
+# Pangrams This code checks whether the input string contains every letter of the English alphabet at least once by storing unique letters in a `HashSet`. It returns "pangram" if all 26 letters are present, otherwise "not pangram".
